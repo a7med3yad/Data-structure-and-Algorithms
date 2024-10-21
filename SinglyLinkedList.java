@@ -2,22 +2,6 @@ public class SinglyLinkedList {
     private Node head;
     private Node tail;
 
-    // Node class
-    private class Node {
-        int info;
-        Node next;
-
-        Node(int el) {
-            this.info = el;
-            this.next = null;
-        }
-
-        Node(int el, Node next) {
-            this.info = el;
-            this.next = next;
-        }
-    }
-
     // Insert element to the head
     public void insertToHead(int el) {
         if (head == null) {
