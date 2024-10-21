@@ -3,18 +3,6 @@ public class DoublyLinkedList {
     private pointer tail;
     private int cnt;
 
-    // Node class
-    private class pointer {
-        int info;
-        pointer next, prev;
-
-        pointer(int el) {
-            this.info = el;
-            this.next = null;
-            this.prev = null;
-        }
-    }
-
     // Check if list is empty
     public boolean isEmpty() {
         return cnt == 0;
