@@ -101,9 +101,5 @@ Fixed-size implementations of queues and stacks using arrays.
 
 ---
 
-## 🤣 Just for Fun!
 
-Here's a funny HTML photo to brighten your day:
-
-```html
 <img src="https://via.placeholder.com/350x150?text=Oops!+Where's+My+Data?+" alt="Funny placeholder">
