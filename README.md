@@ -101,6 +101,7 @@ Fixed-size implementations of queues and stacks using arrays.
 
 ---
 
-![](https://www.pinterest.com/pin/580753314480911123/)
+![Funny Image](https://i.pinimg.com/originals/a4/92/f2/a492f25fb98b17f40d36bbf9ea8d4f79.jpg)
 <img src="https://i.pinimg.com/originals/a4/92/f2/a492f25fb98b17f40d36bbf9ea8d4f79.jpg" alt="Funny Image" width="400">
+
 
